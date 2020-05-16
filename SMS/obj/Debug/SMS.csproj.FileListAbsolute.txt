@@ -1,0 +1,14 @@
+D:\Visual Studio\Projects\Shop_Management_System\SMS\bin\Debug\SMS.exe.config
+D:\Visual Studio\Projects\Shop_Management_System\SMS\bin\Debug\SMS.exe
+D:\Visual Studio\Projects\Shop_Management_System\SMS\bin\Debug\SMS.pdb
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.exe
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.pdb
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.logIn.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.mainPage.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.product.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.Sales.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.Suppliers.resources
+D:\Visual Studio\Projects\Shop_Management_System\SMS\obj\Debug\SMS.salesReport.resources
